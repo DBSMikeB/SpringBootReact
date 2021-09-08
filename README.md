@@ -17,10 +17,6 @@ Should be just an
 -npm start
 
 and you are on your way. If you have environment setup to run react.js apps...have nodejs installed etc.....
-
-
-### `npm start`
-
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
