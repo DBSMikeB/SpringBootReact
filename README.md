@@ -28,7 +28,7 @@ Also requires you have all dependencies for Spring Boot JAVA apps
 I "think" the only configuration is in application.properties file<br>
 spring.datasource.username=sa<br>
 spring.datasource.password=&%$#$%*<br>
-<strong>And also requires an 'employees' database. Tables should be created dynamically.</strong>
+<strong>And also requires an 'employees' database to be created up front. Tables should be created dynamically.</strong>
 
 Need to edit this file for your database credentials/connection.
 
