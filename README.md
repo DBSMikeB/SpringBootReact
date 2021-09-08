@@ -36,8 +36,6 @@ spring.datasource.password=&%$#$%*<br>
 <strong>If you run the sql server script employees database/tables will be created/seeded.</strong>
 However, at any time you can delete all Tables and they will be re-created dynamically.</strong>
 
-Need to edit this file for your database credentials/connection.
-
 then mvn spring-boot:run should do the trick.
 swagger page is localhost://8080/swagger-ui.html
 react SPA is configured to look for apis at above address.
