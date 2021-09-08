@@ -25,9 +25,9 @@ You will also see any lint errors in the console.
 
 This requires SQL Server.
 Also requires you have all dependencies for Spring Boot JAVA apps
-I "think" the only configuration is in application.properties file
-spring.datasource.username=sa
-spring.datasource.password=&%$#$%*
+I "think" the only configuration is in application.properties file<br>
+spring.datasource.username=sa<br>
+spring.datasource.password=&%$#$%*<br>
 
 Need to edit this file for your database credentials/connection.
 
