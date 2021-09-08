@@ -23,7 +23,17 @@ You will also see any lint errors in the console.
 
 ## springboot2-mssql-jpa-hibernate backend project
 
+This requires SQL Server.
+Also requires you have all dependencies for Spring Boot JAVA apps
+I "think" the only configuration is in application.properties file
+spring.datasource.username=sa
+spring.datasource.password=&%$#$%*
 
+Need to edit this file for your database credentials/connection.
+
+then mvn spring-boot:run should do the trick.
+swagger page is localhost://8080/swagger-ui.html
+react SPA is configured to look for apis at above address.
 
 
 
