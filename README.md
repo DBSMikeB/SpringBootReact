@@ -33,7 +33,8 @@ Also requires you have all dependencies for Spring Boot JAVA apps
 I "think" the only configuration is in application.properties file<br>
 spring.datasource.username=sa<br>
 spring.datasource.password=&%$#$%*<br>
-<strong>And also requires an 'employees' database to be created up front. Sql Script also creates Tables and seeds with data. However, at any time you can delete all Tables and they will be re-created dynamically.</strong>
+<strong>If you run the sql server script employees database/tables will be created/seeded.</strong>
+However, at any time you can delete all Tables and they will be re-created dynamically.</strong>
 
 Need to edit this file for your database credentials/connection.
 
