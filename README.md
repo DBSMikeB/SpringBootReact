@@ -1,5 +1,12 @@
 # SpringBootReact
 
+## Steps to Run:
+
+1. Run <strong>CreateEmployeesDB_AndSeedWithData.sql</strong> script on your local SQL server
+-this will create employees database and
+-create tables and seed with data
+
+
 
 ## react-frontend Project
 
@@ -28,7 +35,7 @@ Also requires you have all dependencies for Spring Boot JAVA apps
 I "think" the only configuration is in application.properties file<br>
 spring.datasource.username=sa<br>
 spring.datasource.password=&%$#$%*<br>
-<strong>And also requires an 'employees' database to be created up front. Tables should be created dynamically.</strong>
+<strong>And also requires an 'employees' database to be created up front. Sql Script also creates Tables and seeds with data. However, at any time you can delete all Tables and they will be re-created dynamically.</strong>
 
 Need to edit this file for your database credentials/connection.
 
