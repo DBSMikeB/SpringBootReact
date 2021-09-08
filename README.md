@@ -2,7 +2,7 @@
 
 ## Steps to Run:
 
-1. Run <strong>CreateEmployeesDB_AndSeedWithData sql script</strong> (root folder of project) script on your local SQL server
+1. Run <strong>CreateEmployeesDB_AndSeedWithData sql script</strong> (root folder of project) on your local SQL server
 -this will create employees database and
 -create tables and seed with data.
 2. Get React.js SPA up and running (see below)
