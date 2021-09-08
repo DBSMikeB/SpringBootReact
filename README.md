@@ -4,7 +4,9 @@
 
 1. Run <strong>CreateEmployeesDB_AndSeedWithData.sql</strong> script on your local SQL server
 -this will create employees database and
--create tables and seed with data
+-create tables and seed with data.
+2. Get React.js SPA up and running (see below)
+3. Get Spring Boot API up and running (see below)
 
 
 
